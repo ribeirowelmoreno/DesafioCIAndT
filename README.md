@@ -1,25 +1,25 @@
 # DesafioCIAndT
 
+/**This project consists in simulate a purchase as a user, search for a product and add it on the cart. Adtar that, search for another product, add it on the cart and change the quantity for 2.*/
+
 Sprint 3 dias (48h)
-Horas disponíveis para a execução da tarefa: 15h
 
-Dia 01: Criar um projeto no Intellij e setar as dependências do Maven
-Estimativa: 2h
-Tempo logado: 1h30
+Day 01: Create an projecy on Intellij IDEA and set the Maven dependencies
+Estimate: 2h
+Log work: 1h30
 
-Dia 02: estruturar o projeto em page objects
-Estimativa: 3h
-Tempo logado: 2h
+Day 02: Made the project structure in page objects
+Estimate: 2h
+Log work: 1h30
 
-Dia 03: Criar as classes das páginas e a classe de teste
-Estimativa: 4h
-Tempo logado: 3h30
+Dia 03: Create the page of the class and test
+Estimate: 5h
+Log work: 6h
 
-Dia 03: Montar o código de teste e executar
-Estimativa: 5h
-Tempo logado: 5h
+Dia 03: Make the test code and execute it
+Estimate: 8h
+Log work: 7h
 
-Estudo de parametrização de dados: 2h
-Tempo de estudo e xpath e css selector: 1h
-
-Tempo total:15h 
+Study fot data parametrization: 2h
+Study for xpath and ccs selector: 1h
+ 
