@@ -23,15 +23,11 @@ public class MainPage {
     }
 
     public SignInPage InsertEmailAndContinue(String email, String password){
-        driver.findElement(By.xpath("//*[@id='ap_email']")).click();
-        driver.findElement(By.xpath("//*[@id='ap_email']")).sendKeys(email);
-//        WebElement continueButton = driver.findElement(By.xpath("//*[@id='continue']//span[contains(text(), 'Continuar')]"));
-//        Actions actions = new Actions(driver);
-//        actions.moveToElement(continueButton);
-//        actions.click();
-        driver.findElement(By.cssSelector("")).click();
+        driver.findElement(By.cssSelector("input[type=\"email\"]")).click();
+        driver.findElement(By.cssSelector("input[type=\"email\"]")).sendKeys(email);
 
-        //Web.ExplicitWait(driver,"ap_password");
+        driver.findElement(By.cssSelector("input[id=\"continue\"][tabindex=\"5\"]")).click();
+
         driver.findElement(By.id("ap_password")).sendKeys(password);
         driver.findElement(By.id("signInSubmit")).click();
 

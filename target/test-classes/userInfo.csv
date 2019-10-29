@@ -1,2 +1,2 @@
-testAddProductIntoCart, email, password, fullName
-                      , conta.wel.teste.web@gmail.com, 421563, Conta Teste
+testAddProductIntoCart,email,password,fullName,Duration(ms)
+"",conta.wel.teste.web@gmail.com,421563,Conta Teste,24646.0

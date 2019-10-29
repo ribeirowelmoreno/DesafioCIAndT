@@ -21,7 +21,7 @@ public class ShipmentOptionsPage {
     }
 
     public PaymentPage PressContinue(){
-        WebElement button = driver.findElements(By.cssSelector("//*[@id='shippingOptionFormId']//span//input[@class='a-button-text']")).get(1);
+        WebElement button = driver.findElements(By.xpath("//*[@id='shippingOptionFormId']//span//input[@class='a-button-text']")).get(1);
         button.click();
 
         return new PaymentPage(driver);

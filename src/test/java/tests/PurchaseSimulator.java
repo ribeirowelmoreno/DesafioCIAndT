@@ -33,10 +33,6 @@ public class PurchaseSimulator {
                     .ClickingOnProduct()
                     .AddingProductToCart()
                     .ProceedToCheckout()
-                    .SelectTheShipmentType()
-                    .PressContinue()
-                    .CloseOrder();
-
-
+                    .SelectTheShipmentType();
     }
 }

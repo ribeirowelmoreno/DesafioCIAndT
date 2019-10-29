@@ -20,7 +20,7 @@ public class ProceedToCheckoutPage {
 //        return new ShipmentOptionsPage(driver);
     //}
     public ShipmentOptionsPage SelectTheShipmentType() {
-        driver.findElement(By.xpath("//*[@id='spc-orders']//child::input[contains( @title, 'R$ 30,73 Entrega Padrão')]")).click();
+        driver.findElement(By.cssSelector("input[type=\"radio\"][title=\"GRÁTIS Entrega Padrão\"]")).click();
 
         return new ShipmentOptionsPage(driver);
 
