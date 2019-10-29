@@ -1,6 +1,6 @@
 # DesafioCIAndT
 
-/**This project consists in simulate a purchase as a user, search for a product and add it on the cart. Adtar that, search for another product, add it on the cart and change the quantity for 2.*/
+**This project consists in simulate a purchase as a user, search for a product and add it on the cart. Adtar that, search for another product, add it on the cart and change the quantity for 2.
 
 Sprint 3 dias (48h)
 
