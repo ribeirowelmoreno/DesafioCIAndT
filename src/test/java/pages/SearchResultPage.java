@@ -8,8 +8,8 @@ public class SearchResultPage {
 
         public SearchResultPage(WebDriver driver) {this.driver = driver;}
 
-        public ProductPage ClickingOnProduct(){
-            driver.findElement(By.xpath("//*[@id=\"search\"]//span[contains(text(), \"Celular Apple iPhone 11 Pro 64gb / Tela 5.8'' / 12MP / iOS 13\")]")).click();
+        public ProductPage ClickingOnProduct(String product){
+            driver.findElement(By.xpath(product)).click();
 
             return new ProductPage(driver);
         }

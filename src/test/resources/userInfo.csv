@@ -1,2 +1,4 @@
-testAddProductIntoCart, email, password, fullName
-                      , conta.wel.teste.web@gmail.com, 421563, Conta Teste
+AddProductIntoCart, email, password, fullName
+                  , conta.wel.teste.web@gmail.com, 421563, Conta Teste
+NewProductOnCart, email, password, fullName
+                , conta.wel.teste.web@gmail.com, 421563, Conta Teste

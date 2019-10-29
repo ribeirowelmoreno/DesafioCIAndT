@@ -1,2 +1,4 @@
-testAddProductIntoCart,email,password,fullName,Duration(ms)
-"",conta.wel.teste.web@gmail.com,421563,Conta Teste,24646.0
+AddProductIntoCart,email,password,fullName,Duration(ms),Duration(ms),Duration(ms)
+"",conta.wel.teste.web@gmail.com,421563,Conta Teste,24055.0,24055.0,24055.0
+NewProductOnCart,email,password,fullName,Duration(ms),Duration(ms),Duration(ms)
+"",conta.wel.teste.web@gmail.com,421563,Conta Teste,24944.0,24944.0,24944.0

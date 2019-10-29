@@ -28,7 +28,7 @@
   <component name="ProjectId" id="1SpuYMjBGHO9Bco9Ly6Vq2hUIKG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/chromedriver" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Appium/appium" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -54,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PurchaseSimulator.testAddProductIntoCart">
+  <component name="RunManager" selected="JUnit.PurchaseSimulator">
     <configuration name="PurchaseSimulator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DesafioCIANDT" />
       <extension name="coverage">
@@ -66,6 +66,54 @@
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.PurchaseSimulator" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PurchaseSimulator2.testAddANewProductOnCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesafioCIANDT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PurchaseSimulator2" />
+      <option name="METHOD_NAME" value="testAddANewProductOnCart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PurchaseSimulator.AddProductIntoCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesafioCIANDT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PurchaseSimulator" />
+      <option name="METHOD_NAME" value="AddProductIntoCart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PurchaseSimulator.testAddANewProductOnCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesafioCIANDT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PurchaseSimulator" />
+      <option name="METHOD_NAME" value="testAddANewProductOnCart" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,8 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PurchaseSimulator.testAddProductIntoCart" />
         <item itemvalue="JUnit.PurchaseSimulator" />
+        <item itemvalue="JUnit.PurchaseSimulator.AddProductIntoCart" />
+        <item itemvalue="JUnit.PurchaseSimulator.testAddANewProductOnCart" />
+        <item itemvalue="JUnit.PurchaseSimulator.testAddProductIntoCart" />
+        <item itemvalue="JUnit.PurchaseSimulator2.testAddANewProductOnCart" />
       </list>
     </recent_temporary>
   </component>

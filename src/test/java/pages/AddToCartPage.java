@@ -13,4 +13,6 @@ public class AddToCartPage {
 
         return new ProceedToCheckoutPage(driver);
     }
+
+
 }
