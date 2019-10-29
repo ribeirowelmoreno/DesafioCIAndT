@@ -11,7 +11,6 @@ import org.openqa.selenium.WebDriver;
 import pages.MainPage;
 import support.Web;
 import org.junit.FixMethodOrder;
-import org.junit.runners.MethodSorters;
 
     @RunWith(DataDrivenTestRunner.class)
     @DataLoader(filePaths = "userInfo.csv")
